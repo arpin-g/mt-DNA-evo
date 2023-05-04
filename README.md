@@ -4,15 +4,6 @@ Team:
 - Arpine Griogoryan (arpigrigoryan1@gmail.com)
 - Syuzi Matevosyan (syuzi.matevosyan1802@gmail.com)
 
-Data #1:
-Paper: Derenko et al. (2019) Insights into matrilineal genetic structure, diferentiation and ancestry of Armenians based on complete mitogenome data
-https://doi.org/10.1007/s00438-019-01596-2
-
-Samples: Complete human mitogenomes
-
-GenBank accession numbers: 
-MK491355–MK491495
-
 Workflow:
 
 0. Preprocessing
@@ -32,7 +23,11 @@ Variant annotation was done using snpEff (Version: 5.1d). At first we built a li
 
 Haplogroups were defined using HaploGrep (Version 3.0) web server (https://haplogrep.i-med.ac.at/). Downloaded results as zip (haplogroups.zip)
 
+Data #1:
+Paper: Derenko et al. (2019) Insights into matrilineal genetic structure, diferentiation and ancestry of Armenians based on complete mitogenome data
+https://doi.org/10.1007/s00438-019-01596-2
 
+Samples: Complete human mitogenomes, GenBank accession numbers: MK491355–MK491495
 
 Data #2 
 Paper: Derenko, M. et al. (2013). Complete mitochondrial DNA diversity in Iranians. 
@@ -46,6 +41,5 @@ doi: 10.1038/ejhg.2011.62
 Data #4
 Paper: Ashot Margaryan, Miroslava Derenko (2017) Eight Millennia of Matrilineal Genetic Continuity in the South Caucasus
 http://dx.doi.org/10.1016/j.cub.2017.05.087
-
 
 
