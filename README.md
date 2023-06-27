@@ -42,4 +42,9 @@ Data #4
 Paper: Ashot Margaryan, Miroslava Derenko (2017) Eight Millennia of Matrilineal Genetic Continuity in the South Caucasus
 http://dx.doi.org/10.1016/j.cub.2017.05.087
 
+4. Extracting coding sequences
+Transforming gff3 genome annotation file from NCBI (https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1/) to bed file using Bedops gff2bed (https://github.com/bedops/bedops), extracting only protein-coding regions, extracting protein-coding sequences using Bedtools. 
+
+5. Building a phylogenetic tree
+
 
