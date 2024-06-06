@@ -43,6 +43,7 @@ Paper: Ashot Margaryan, Miroslava Derenko (2017) Eight Millennia of Matrilineal 
 http://dx.doi.org/10.1016/j.cub.2017.05.087
 
 4. Building a phylogenetic tree
+
 For building a phylogenetic tree we decided to use coding sequences. For that we had to transform gff3 genome annotation file from NCBI (https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1/) to BED file using Bedops gff2bed (https://github.com/bedops/bedops), extracting only protein-coding regions. 
 Further to extract protein-coding sequences from samples we used Bedtools. Then we combined sequences of each protein from all samples, performed multiple sequence alignment, and build a phylogenetic tree based on that.  
 Script for extracting coding regions: scr/coding_regions_test.sh
