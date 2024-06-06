@@ -1,4 +1,4 @@
-The project aims to analyze human mitochondrial DNA to explore genetic variation of Armenian popoulation and differencies between Armenian and neighbouring populations. 
+The project aims to analyze human mitochondrial DNA to explore genetic variation of Armenian population and differencies between Armenian and neighbouring populations. 
 
 Team:
 - Arpine Griogoryan (arpigrigoryan1@gmail.com)
